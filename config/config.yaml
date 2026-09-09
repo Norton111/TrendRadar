@@ -247,7 +247,7 @@ display:
   standalone:
     platforms: ["douyin"]                         # 优先完整展示抖音热榜
     rss_feeds: []                                # RSS 源 ID 列表（如 ["hacker-news"]）
-    max_items: 50                                # 抖音最多展示 50 条
+    max_items: 10                                # 抖音只展示前 10 条
 
 
 # ===============================================================
